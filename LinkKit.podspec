@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "LinkKit"
-  s.version      = "1.0.0"
+  s.version      = "1.0.4"
   s.summary      = "Plaid Link is a single-line drop-in module that offers a secure, elegant authentication flow for interact with banks."
 
   s.description  = <<-DESC
